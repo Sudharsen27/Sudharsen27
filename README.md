@@ -189,25 +189,17 @@ Deployment: Vercel, Railway
 
 <div align="center">
   
-<a href="https://github.com/Sudharsen27">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudharsen27&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Sudharsen27">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
-</a>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudharsen27&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sudharsen27">
-    <img width="70%" src="https://streak-stats.demolab.com?user=Sudharsen27&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=c9d1d9&border_radius=10" alt="GitHub Streak" />
-  </a>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Sudharsen27&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=c9d1d9&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sudharsen27">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&area_color=ff6b6b" alt="Contribution Graph" width="95%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&area_color=ff6b6b" alt="Contribution Graph" width="95%"/>
 </div>
 
 <div align="center">
