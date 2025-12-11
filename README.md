@@ -64,12 +64,12 @@ A secure, responsive full-stack platform for booking and managing appointments.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudharsen27&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=tokyonight" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsen27&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Sudharsen27&theme=tokyonight" />
 </p>
 
 ---
@@ -86,7 +86,6 @@ A secure, responsive full-stack platform for booking and managing appointments.
 📧 **Email:** sundarlingam272000@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/sundar-lingam-8407a5221  
 🐙 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudharsen27)
-
 
 ---
 
