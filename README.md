@@ -293,9 +293,9 @@ Deployment: Vercel, Railway
 
 ---
 
-### 🎵 Currently Vibing To
+### 🎵 Vibing to
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31zs5rttkyugiao2w6d5d47s7lay&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b6b&bar_color_cover=true)](https://open.spotify.com/user/31zs5rttkyugiao2w6d5d47s7lay)
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31zs5rttkyugiao2w6d5d47s7lay&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b6b&bar_color_cover=true" alt="Spotify"/>
 
 ---
 
