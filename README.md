@@ -189,17 +189,25 @@ Deployment: Vercel, Railway
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudharsen27&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+<a href="https://github.com/Sudharsen27">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudharsen27&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Sudharsen27">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+</a>
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sudharsen27&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=c9d1d9&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/Sudharsen27">
+    <img width="70%" src="https://streak-stats.demolab.com?user=Sudharsen27&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=c9d1d9&border_radius=10" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&area_color=ff6b6b" alt="Contribution Graph" width="95%"/>
+  <a href="https://github.com/Sudharsen27">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&area_color=ff6b6b" alt="Contribution Graph" width="95%"/>
+  </a>
 </div>
 
 <div align="center">
@@ -293,9 +301,9 @@ Deployment: Vercel, Railway
 
 ---
 
-### 🎵 Vibing to
+### 🎵 Currently Vibing To
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31zs5rttkyugiao2w6d5d47s7lay&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b6b&bar_color_cover=true" alt="Spotify"/>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31zs5rttkyugiao2w6d5d47s7lay&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b6b&bar_color_cover=true)](https://open.spotify.com/user/31zs5rttkyugiao2w6d5d47s7lay)
 
 ---
 
