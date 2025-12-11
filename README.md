@@ -206,7 +206,9 @@ Deployment: Vercel, Railway
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sudharsen27&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+<a href="https://github.com/Sudharsen27">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudharsen27&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</a>
 
 </div>
 
