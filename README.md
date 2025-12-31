@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sundar%20|%20Software%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sundar%20Lingam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 Aspiring Software Development Engineer • Passionate Technologist • Lifelong Learner
+### 💼 Software Development Engineer • ☁️ Cloud Enthusiast • 🚀 Problem Solver
 
 <p align="center">
   <a href="https://linkedin.com/in/sundar-lingam-8407a5221">
@@ -201,10 +201,6 @@ Deployment: Vercel, Railway
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&area_color=ff6b6b" alt="Contribution Graph" width="95%"/>
 </div>
-
-<div align="center">
-
-<div align="center">
 
 <div align="center">
 
