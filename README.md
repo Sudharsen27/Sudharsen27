@@ -25,32 +25,29 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Professional Profile
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-const sundarLingam = {
-    title: "Software Development Engineer",
-    location: "Chennai, Tamil Nadu, India 🇮🇳",
-    experience: {
+const developer = {
+    name: "Sundar Lingam",
+    role: "Software Development Engineer",
+    location: "Chennai, Tamil Nadu 🇮🇳",
+    
+    expertise: {
         frontend: ["React", "Next.js", "TypeScript"],
         backend: ["Node.js", "Express", "Spring Boot"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        cloud: ["AWS", "Vercel", "Railway"]
+        database: ["PostgreSQL", "MongoDB", "MySQL"],
+        cloud: ["AWS", "Docker", "CI/CD"]
     },
-    specialization: [
-        "Full-Stack Web Development",
-        "Cloud-Native Applications",
-        "RESTful API Design",
-        "Microservices Architecture"
+    
+    focus: [
+        "Full-Stack Development",
+        "Cloud Architecture",
+        "RESTful APIs"
     ],
-    currentlyLearning: [
-        "System Design & Scalability",
-        "AWS Solutions Architecture",
-        "Advanced React Patterns",
-        "Docker & Kubernetes"
-    ],
-    professionalGoals: "Building scalable, secure, and maintainable software solutions",
-    availability: "Open to opportunities"
+    
+    learning: ["System Design", "AWS", "Kubernetes"],
+    status: "Open to opportunities"
 };
 ```
 
