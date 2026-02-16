@@ -1,99 +1,118 @@
-# Hi, I'm Sundar 👋
-
-**Software Development Engineer** | Chennai, Tamil Nadu 🇮🇳
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundar-lingam-8407a5221)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sundarlingam272000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudharsen27)
-
----
-
-## About Me
-
-I'm a passionate software developer focused on building scalable applications with modern technologies. I love working on full-stack development, cloud architecture, and backend engineering.
-
-**Current Focus:**
-- Full-Stack Development with React & Node.js
-- Exploring AWS Cloud Services
-- Backend Engineering Best Practices
-- Contributing to Open Source
-
----
-
-## Tech Stack
-
-**Frontend:** React, Next.js, TailwindCSS, HTML5, CSS3, JavaScript
-
-**Backend:** Node.js, Express.js, Spring Boot, Java
-
-**Databases:** PostgreSQL, MySQL, MongoDB
-
-**DevOps & Cloud:** Git, GitHub, AWS (EC2, S3, RDS, Lambda), Cloudflare
-
-**Tools:** JWT Authentication, RESTful APIs, Sequelize, Hibernate
-
----
-
-## Featured Project
-
-### 🏥 Medilink - Appointment Booking System
-
-A secure, full-stack healthcare platform for seamless appointment management.
-
-**Tech Stack:** React, Node.js, Express.js, PostgreSQL, JWT, TailwindCSS
-
-**Features:**
-- 🔐 Secure authentication and authorization
-- 📅 Real-time appointment booking
-- 👥 Role-based access control (Patients, Doctors, Admin)
-- 📱 Fully responsive design
-- ⚡ Fast and optimized performance
-
-**Links:**
-- [Frontend Repository](https://github.com/Sudharsen27/medilink-frontend)
-- [Backend Repository](https://github.com/Sudharsen27/medilink-backend)
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=default&hide_border=true&count_private=true)
+# 👨‍💻 Sundar | Software Developer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=default&hide_border=true&langs_count=6)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Cloud+%26+DevOps+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundar-lingam-8407a5221)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundarlingam272000@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudharsen27)
 
 </div>
 
 ---
 
-## Currently Learning
+## 🚀 About Me
 
-- Microservices Architecture
-- Advanced React Patterns
-- AWS Solutions Architecture
-- System Design Fundamentals
+```javascript
+const sundar = {
+    location: "Chennai, Tamil Nadu 🇮🇳",
+    role: "Software Development Engineer",
+    code: ["JavaScript", "Java", "SQL"],
+    technologies: {
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express", "Spring Boot"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL"],
+        cloud: ["AWS (EC2, S3, Lambda)", "Cloudflare"]
+    },
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
 ---
 
-## Let's Connect
+## 💻 Tech Stack
 
-I'm open to:
-- 💼 Full-time opportunities
-- 🚀 Freelance projects
-- 🤝 Open source collaboration
-- 💡 Technical discussions
+<div align="center">
 
-**Email:** sundarlingam272000@gmail.com  
-**LinkedIn:** [Sundar Lingam](https://linkedin.com/in/sundar-lingam-8407a5221)  
-**GitHub:** [@Sudharsen27](https://github.com/Sudharsen27)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Project
+
+<div align="center">
+
+### 🏥 Medilink - Healthcare Appointment System
+
+*A modern, secure full-stack platform for seamless appointment management*
+
+<br>
+
+**🛠️ Built With:** React • Node.js • Express • PostgreSQL • JWT • TailwindCSS
+
+**✨ Features:** Secure Auth • Real-time Booking • Role-based Access • Responsive Design
+
+<br>
+
+[![Frontend](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=react)](https://github.com/Sudharsen27/medilink-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=node.js)](https://github.com/Sudharsen27/medilink-backend)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsen27&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=2E9EFF&width=600&lines=Microservices+Architecture;Advanced+React+Patterns;AWS+Solutions+Architecture;System+Design+Principles" alt="Learning" />
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Open for opportunities in:** Full-Stack Development • Backend Engineering • Cloud Projects
+
+💌 **Email:** sundarlingam272000@gmail.com  
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/sundar-lingam-8407a5221)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sudharsen27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Consistency beats talent — keep building, keep learning."*
+### 💭 *"Consistency beats talent — keep building, keep learning"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sudharsen27&color=blue&style=flat)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
