@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Sundar | Software Developer
+# 👨‍💻 Sundar | Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Cloud+%26+DevOps+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
