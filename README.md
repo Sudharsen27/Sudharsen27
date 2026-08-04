@@ -38,7 +38,7 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Sudharsen27?template=classic&base=&isocalendar=1&isocalendar.duration=full-year" alt="GitHub Activity Pulse — full-year contribution calendar, current streak, and daily average" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&area=true&days=31&custom_title=Last%2031%20days%20of%20GitHub%20activity" alt="GitHub contribution activity for the last 31 days" width="100%" />
 
 </div>
 
