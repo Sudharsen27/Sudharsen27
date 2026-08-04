@@ -36,19 +36,19 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 ### Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+Numbers over graphs — clearer for recruiters, matches 2026 profile best practice.  
+(Your daily contribution calendar already appears on the GitHub profile below this README.)
 
-**Contributions (every day)**
+<div align="center">
 
-<!-- Daily heatmap — each square = one day -->
-<p align="left">
-  <img alt="GitHub contribution calendar" src="https://ghchart.rshah.org/58A6FF/Sudharsen27" width="100%" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats — commits, PRs, contributions" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 
-<!-- Contribution score over time -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20score%20(daily))
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sudharsen27&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://streak-stats.demolab.com/?user=Sudharsen27&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak — current and longest" />
+
+</div>
 
 ---
 
