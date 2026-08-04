@@ -38,8 +38,7 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 <div align="center">
 
-<!-- Generated daily by the GitHub Action in docs/github-profile-summary-cards.yml -->
-<img src="https://raw.githubusercontent.com/Sudharsen27/Sudharsen27/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution overview" width="100%" />
+<img src="https://metrics.lecoq.io/Sudharsen27?template=classic&base=&isocalendar=1&isocalendar.duration=full-year" alt="GitHub Activity Pulse — full-year contribution calendar, current streak, and daily average" width="100%" />
 
 </div>
 
