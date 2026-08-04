@@ -36,17 +36,10 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 ### Activity
 
-Numbers over graphs — clearer for recruiters, matches 2026 profile best practice.  
-(Your daily contribution calendar already appears on the GitHub profile below this README.)
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats — commits, PRs, contributions" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Sudharsen27&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak — current and longest" />
+<!-- Generated daily by the GitHub Action in docs/github-profile-summary-cards.yml -->
+<img src="https://raw.githubusercontent.com/Sudharsen27/Sudharsen27/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution overview" width="100%" />
 
 </div>
 
