@@ -36,9 +36,11 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 ### Activity
 
-GitHub’s native contribution calendar and recent activity appear directly below this README.
+<div align="center">
 
-[Explore my public work →](https://github.com/Sudharsen27?tab=repositories)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsen27&theme=github-dark&hide_border=true&area=true&days=31&custom_title=GitHub%20activity%20%E2%80%94%20last%2031%20days" alt="GitHub activity over the last 31 days" width="100%" />
+
+</div>
 
 ---
 
