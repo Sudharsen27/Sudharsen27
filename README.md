@@ -36,11 +36,9 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 ### Activity
 
-Recent public work on GitHub:
+GitHub’s native contribution calendar and recent activity appear directly below this README.
 
-<!--RECENT_ACTIVITY:start-->
-- Activity feed updates automatically from GitHub.
-<!--RECENT_ACTIVITY:end-->
+[Explore my public work →](https://github.com/Sudharsen27?tab=repositories)
 
 ---
 
