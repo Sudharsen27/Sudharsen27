@@ -19,33 +19,51 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="16%"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=ts" height="42"/>
+<td width="50%" valign="top">
+
+**💠 Languages**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+
 </td>
 </tr>
 <tr>
-<td align="center"><b>Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
+<td width="50%" valign="top">
+
+**⚙️ Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Data**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
 </td>
 </tr>
 <tr>
-<td align="center"><b>Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="42"/>
+<td width="50%" valign="top">
+
+**☁️ Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </td>
-</tr>
-<tr>
-<td align="center"><b>Data</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,redis" height="42"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Cloud & DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,docker" height="42"/>
+<td width="50%" valign="top">
+
+**🏗️ Infra as Code**
+<br/>
+<img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+
 </td>
 </tr>
 </table>
