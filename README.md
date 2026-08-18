@@ -19,40 +19,33 @@
 
 <table width="100%">
 <tr>
-<td width="16%"><b>Languages</b></td>
+<td align="center" width="16%"><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=ts" height="42"/>
 </td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
+<td align="center"><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
+<td align="center"><b>Backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="42"/>
 </td>
 </tr>
 <tr>
-<td><b>Data</b></td>
+<td align="center"><b>Data</b></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis" height="42"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30"/>
 </td>
 </tr>
 <tr>
-<td><b>Cloud & DevOps</b></td>
+<td align="center"><b>Cloud & DevOps</b></td>
 <td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,docker" height="42"/>
 </td>
 </tr>
 </table>
