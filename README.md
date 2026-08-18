@@ -93,15 +93,39 @@ More work & live demos → **[sundarlingam.vercel.app](https://sundarlingam.verc
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:06B6D4&height=3&section=header" width="100%"/>
 
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;Snapshot
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+**2.5+**
+years shipping production code
+
+</td>
+<td align="center" width="25%">
+
+**3**
+flagship platforms shipped
+
+</td>
+<td align="center" width="25%">
+
+**10+**
+core technologies in daily use
+
+</td>
+<td align="center" width="25%">
+
+**AWS**
+ECS · RDS · CDK
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=06B6D4&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsen27&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsen27&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1"/>
+<img src="https://streak-stats.demolab.com/?user=Sudharsen27&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" alt="GitHub streak stats"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:06B6D4&height=3&section=header" width="100%"/>
