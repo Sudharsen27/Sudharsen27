@@ -1,168 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=150&section=header&text=Sundar%20Lingam&fontSize=40&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<div align="center">
 
-<table width="100%" border="0">
-<tr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Sundar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20building%20React%20%2B%20FastAPI%20%2B%20AWS%20products&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- ===================== LEFT SIDEBAR ===================== -->
-<td width="30%" valign="top">
+<br/>
 
-### 📍 Chennai, India
+<a href="https://sundarlingam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.sundardigital.in/"><img src="https://img.shields.io/badge/Freelance-06B6D4?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sundar-lingam-8407a5221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sundarlingam272000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-**Full-Stack Software Engineer**
-2.5+ years of experience
+</div>
 
----
+<br/>
 
-**🏢 Currently**
-Software Engineer @ Analytix-Hub Technologies
-Building the MDM Data Governance Platform
+### 👋 About
 
-**💼 Also**
-Freelance dev & AWS consulting @ [Sundar Digital](https://www.sundardigital.in/)
+I'm a Full-Stack Software Engineer based in Chennai, India, with 2.5+ years building enterprise web applications, REST APIs, and data platforms. I currently work on the **MDM Data Governance Platform** at Analytix-Hub Technologies, and take on freelance & AWS consulting work through **[Sundar Digital](https://www.sundardigital.in/)**.
 
----
+I care most about clean architecture, fast APIs, and interfaces that feel simple even when the system underneath isn't.
 
-### 🔗 Links
+- 🔭 Currently building data governance & quality tooling with FastAPI, PostgreSQL, and Snowflake
+- ☁️ Deepening AWS cloud architecture — ECS/Fargate, RDS, VPC, IAM, CDK
+- 💼 Open to full-stack, backend, and cloud engineering roles
+- 📫 Reach me at **sundarlingam272000@gmail.com**
 
-[🌐 Portfolio](https://sundarlingam.vercel.app/)
-[💼 Freelance Site](https://www.sundardigital.in/)
-[🔗 LinkedIn](https://www.linkedin.com/in/sundar-lingam-8407a5221/)
-[✉️ Email](mailto:sundarlingam272000@gmail.com)
-[💬 WhatsApp](https://wa.me/916382519651)
-[🐙 GitHub](https://github.com/Sudharsen27)
+<br/>
 
----
+### 🧰 Tech Stack
 
-### 🧰 Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,tailwind,fastapi,nodejs,express,py,postgres,mongodb,redis,aws,docker,figma,git" />
+</p>
 
-**Frontend**
-React · Next.js · Astro
-TypeScript · Tailwind
-Framer Motion
+<br/>
 
-**Backend**
-FastAPI · Node.js
-Express · Python
+### 📌 Featured Projects
 
-**Data**
-PostgreSQL · Snowflake
-MongoDB · Redis
+|  | Project | Description | Stack |
+|---|---|---|---|
+| 🍽️ | **[Restaurant ERP](https://restaurant-resource-planning-system.vercel.app)** | Multi-location restaurant ERP on AWS — inventory, procurement, RBAC, executive dashboards | React · FastAPI · PostgreSQL · Redis · AWS |
+| 🗂️ | **[MDM Data Governance](https://mdm-data-governance-platform-fronte.vercel.app/login)** | Master data platform — rules engine, data profiling, AI column descriptions, Snowflake analytics | React · FastAPI · PostgreSQL · Snowflake |
+| 📊 | **[Nexora CRM](https://nexora-crm-iota.vercel.app)** | Multi-tenant SaaS CRM with pipelines, RBAC, and org isolation | Next.js · FastAPI · PostgreSQL · TypeScript |
+| 🛒 | **[Shop Sphere](https://shopsphere-frontend-self.vercel.app/)** | Full-stack e-commerce with JWT auth and Razorpay checkout | Next.js · Node.js · MongoDB · Razorpay |
+| 🏥 | **[MediLink](https://medilink-frontend-ml45.vercel.app/)** | Healthcare appointment booking with secure patient workflows | React · Node.js · PostgreSQL · JWT |
 
-**Cloud**
-AWS (ECS/RDS/CDK)
-Docker
+<p align="center"><i>See 15+ more projects & case studies → <a href="https://sundarlingam.vercel.app/projects">sundarlingam.vercel.app/projects</a></i></p>
 
----
+<br/>
+
+### 💼 Experience
+
+**Software Engineer** — Analytix-Hub Technologies · *Apr 2026 – Present*
+Building the MDM Data Governance Platform: FastAPI APIs, PostgreSQL data models, React dashboards, and Snowflake analytics pipelines.
+
+**SDE I** — Wraptron Apptech LLP · *Mar 2024 – Mar 2026*
+Shipped 5+ full-stack apps across e-commerce, healthcare, and job-portal products with React/Next.js, Node.js/FastAPI, and PostgreSQL/Snowflake.
+
+<br/>
 
 ### 🏅 Certifications
-- SnowPro Associate
-- Node.js — Simplilearn
-- HackerRank Problem Solving
-- React JS — Great Learning
-- Selenium — Great Learning
 
----
-
-### 📊 Snapshot
-| | |
-|---|---|
-| Experience | 2.5+ yrs |
-| Projects | 15+ |
-| Freelance jobs | 11 |
-| Certifications | 6 |
-
-</td>
-
-<!-- ===================== RIGHT MAIN COLUMN ===================== -->
-<td width="70%" valign="top">
-
-### About
-
-I build enterprise web applications, REST APIs, and scalable data platforms — end to end. My day-to-day stack is React/Next.js on the frontend and FastAPI/Node.js on the backend, backed by PostgreSQL and Snowflake, deployed on AWS.
-
-I like software that's boring in the right places (stable, secure, well-tested) and thoughtful in the ones users actually notice (fast, clear, well-designed). Outside of my day job, I take on freelance and consulting work through Sundar Digital — websites, SaaS builds, and AWS architecture for founders and small teams.
+`SnowPro Associate`&nbsp;&nbsp;`Node.js — Simplilearn`&nbsp;&nbsp;`HackerRank Problem Solving`&nbsp;&nbsp;`React JS — Great Learning`&nbsp;&nbsp;`Selenium — Great Learning`
 
 <br/>
 
-### Experience
+### 📊 GitHub Stats
 
-**Software Engineer** — Analytix-Hub Technologies Pvt. Ltd.
-*Apr 2026 – Present · Chennai, TN*
-Architecting the MDM Data Governance Platform: FastAPI REST APIs, PostgreSQL data models, a React dashboard for dataset quality monitoring, data profiling with AI-generated column descriptions, and Snowflake pipelines for cross-database analytics.
+<div align="center">
 
-**Software Development Engineer (SDE I)** — Wraptron Apptech LLP
-*Mar 2024 – Mar 2026 · Chennai, TN*
-Delivered 5+ full-stack applications end-to-end across e-commerce, healthcare, and job-portal products — React/Next.js frontends, Node.js/FastAPI backends, JWT auth and RBAC, and PostgreSQL/Snowflake-backed dashboards.
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=06B6D4&text_color=c9d1d9" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Sudharsen27&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" height="165" />
 
-**Junior Executive** — Shriram Finance
-*Dec 2021 – Dec 2022 · Theni, TN*
-Managed customer records and compliance workflows — the process discipline that now shows up in how I ship software.
+</div>
 
 <br/>
 
-### Featured Projects
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**2.5+ years** experience &nbsp;·&nbsp; **15+** projects built &nbsp;·&nbsp; **11** freelance projects delivered &nbsp;·&nbsp; **6** certifications
 
-**🍽️ [Restaurant ERP](https://restaurant-resource-planning-system.vercel.app)**
-Multi-location ERP on AWS — inventory, procurement, RBAC, executive dashboards. Deployed with ECS + CDK.
-`React` `FastAPI` `PostgreSQL` `Redis` `AWS`
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
-
-**🗂️ [MDM Data Governance](https://mdm-data-governance-platform-fronte.vercel.app/login)**
-Rules engine, data profiling, AI-generated column descriptions, Snowflake analytics.
-`React` `FastAPI` `PostgreSQL` `Snowflake`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📊 [Nexora CRM](https://nexora-crm-iota.vercel.app)**
-Multi-tenant SaaS CRM — pipelines, org isolation, RBAC, analytics dashboards.
-`Next.js` `FastAPI` `PostgreSQL` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-**🛒 [Shop Sphere](https://shopsphere-frontend-self.vercel.app/)**
-E-commerce with JWT auth, product catalog, cart, and Razorpay checkout.
-`Next.js` `Node.js` `MongoDB` `Razorpay`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏥 [MediLink](https://medilink-frontend-ml45.vercel.app/)**
-Healthcare appointment booking with secure patient/provider workflows.
-`React` `Node.js` `PostgreSQL` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-**→ [15+ more projects](https://sundarlingam.vercel.app/projects)**
-Job boards, student dashboards, corporate sites, and SEO-optimized builds.
-`Next.js` `Astro` `Cloudflare`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsen27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=06B6D4" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Sudharsen27&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" width="100%"/>
-
-</td>
-</tr>
-</table>
+📍 Chennai, India &nbsp;·&nbsp; [Portfolio](https://sundarlingam.vercel.app/) &nbsp;·&nbsp; [Freelance](https://www.sundardigital.in/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sundar-lingam-8407a5221/) &nbsp;·&nbsp; [WhatsApp](https://wa.me/916382519651)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=100&section=footer" width="100%"/>
+
+</div>
